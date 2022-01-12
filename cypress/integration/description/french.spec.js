@@ -3,7 +3,7 @@ Cypress.on('uncaught:exception', (err, runnable) => {
     return false;
 });
 
-const testData = require("../fixtures/frenchTestData.json");
+const testData = require("../../fixtures/description/frenchTestData.json");
 
 describe('Description validate', () => {
     testData.sheet.forEach((testDataRow) => {
