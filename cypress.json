@@ -1,0 +1,14 @@
+{
+  "env": {
+    "baseUrlEn": "https://jjuser:JJJJpassword1!@con-na-aveeno2-ca-en.jnjnab11d6-test.jjc-devops.com",
+    "baseUrlFr": "https://jjuser:JJJJpassword1!@con-na-aveeno2-ca-fr.jnjnab11d6-test.jjc-devops.com"
+  },
+  "video": false,
+  "chromeWebSecurity": false,
+  "screenshotOnRunFailure": false,
+  "waitForAnimations": false,
+  "defaultCommandTimeout": 100,
+  "watchForFileChanges": false,
+  "trashAssetsBeforeRuns": false,
+  "modifyObstructiveCode": false
+}
