@@ -1,0 +1,286 @@
+{
+    "sheet": [
+        {
+            "number": "1",
+            "image": "motrin_covid-19_banner.jpg",
+            "alt": "Motrin orange background banner",
+            "path": "/"
+        },
+        {
+            "number": "2",
+            "image": "peds_tylenol_motrin_website_update_sprains_and_strains_en_final-2.png",
+            "alt": "Father and daughter playing together",
+            "path": "/infant-child-symptoms/managing-kids-pain-from-sprains-and-strains"
+        },
+        {
+            "number": "3",
+            "image": "motrin-listingbodypain-callout01.jpg",
+            "alt": "Lady suffering from body pain",
+            "path": "/adult-symptoms/body-pain"
+        },
+        {
+            "number": "4",
+            "image": "table-dosin-08_b.jpg",
+            "alt": "Syringe dosing icon",
+            "path": "/safety-dosing/infant-children-dosing-charts"
+        },
+        {
+            "number": "5",
+            "image": "motrin-treatingbackpain-header.jpg",
+            "alt": "Lady suffering from back pain banner",
+            "path": "/adult-symptoms/back-pain/treating-upper-back-pain-lower-back-pain"
+        },
+        {
+            "number": "6",
+            "image": "teething-taco-1.png",
+            "alt": "Baby teething",
+            "path": "/infant-child-symptoms/treating-teething-and-toothaches"
+        },
+        {
+            "number": "7",
+            "image": "product_lg_motrinlg.png",
+            "alt": "Motrin Liquid Gels, 30 capsules",
+            "path": "/products/motrin/motrin-tablets"
+        },
+        {
+            "number": "8",
+            "image": "5.0_safetyanddosing_965x455_0.jpg",
+            "alt": "Little girl taking her temperature",
+            "path": "/infant-child-symptoms/know-difference-between-tylenol-and-motrin"
+        },
+        {
+            "number": "9",
+            "image": "motrin-listingbodypain-callout04.jpg",
+            "alt": "Man suffering from knee pain",
+            "path": "/adult-symptoms/body-pain"
+        },
+        {
+            "number": "10",
+            "image": "motrin-menstrualpain-header.jpg",
+            "alt": "Teenage girl suffering from menstrual pain",
+            "path": "/adult-symptoms/treating-menstrual-pain-common-symptoms"
+        },
+        {
+            "number": "11",
+            "image": "motrin-diagnosingunderstandingbackpain-header.jpg",
+            "alt": "Man suffering from back pain",
+            "path": "/adult-symptoms/back-pain/diagnosing-understanding-back-pain"
+        },
+        {
+            "number": "12",
+            "image": "table-dosin-09_c.jpg",
+            "alt": "Cup dosing icon",
+            "path": "/safety-dosing/infant-children-dosing-charts"
+        },
+        {
+            "number": "13",
+            "image": "product_lg_motrintablets_resized.png",
+            "alt": "Motrin tablets, 45 tablets",
+            "path": "/products/motrin/motrin-liquid-gels"
+        },
+        {
+            "number": "14",
+            "image": "motrin-sprainsstrains-header.jpg",
+            "alt": "Stretching leg due to muscle sprain",
+            "path": "/adult-symptoms/back-pain/preventing-treating-sprains-strains"
+        },
+        {
+            "number": "15",
+            "image": "motrin-knowthedifference-landing.png",
+            "alt": "Motrin male icon",
+            "path": "/infant-child-symptoms/know-difference-between-tylenol-and-motrin"
+        },
+        {
+            "number": "16",
+            "image": "table-dosin-08_a.jpg",
+            "alt": "Syringe dosing icon",
+            "path": "/safety-dosing/infant-children-dosing-charts"
+        },
+        {
+            "number": "17",
+            "image": "peds_tylenol_motrin_website_update_fever_-_infants_en_final-2.png",
+            "alt": "Understanding infant fever",
+            "path": "/infant-child-symptoms/fever/treating-fever-babies-and-toddlers"
+        },
+        {
+            "number": "18",
+            "image": "motrin-listingbackpain-callout02.jpg",
+            "alt": "Lady dealing with back pain",
+            "path": "/adult-symptoms/back-pain"
+        },
+        {
+            "number": "19",
+            "image": "peds_tylenol_motrin_website_update_teething_en_final.png",
+            "alt": "Baby teething and biting toy",
+            "path": "/infant-child-symptoms/tackling-teething-pain-babies"
+        },
+        {
+            "number": "20",
+            "image": "tylenol_motrin_website-1-min.png",
+            "alt": "Mother bathing her baby",
+            "path": "/infant-child-symptoms/fever"
+        },
+        {
+            "number": "21",
+            "image": "table-dosin-09_b.jpg",
+            "alt": "Cup dosing icon",
+            "path": "/safety-dosing/infant-children-dosing-charts"
+        },
+        {
+            "number": "22",
+            "image": "peds_tylenol_motrin_website_update_toothaches_en_final-1.png",
+            "alt": "Little girl suffering from toothache",
+            "path": "/infant-child-symptoms/treating-preventing-kids-toothaches"
+        },
+        {
+            "number": "23",
+            "image": "motrin-managingpreventingbackpain-header.jpg",
+            "alt": "Man sleeping and suffering from backache",
+            "path": "/adult-symptoms/back-pain/managing-preventing-back-pain"
+        },
+        {
+            "number": "24",
+            "image": "taco-1-re.png",
+            "alt": "Checking baby's temperature",
+            "path": "/infant-child-symptoms/know-difference-between-tylenol-and-motrin"
+        },
+        {
+            "number": "25",
+            "image": "motrin-headaches-header.jpg",
+            "alt": "Lady suffering from headache",
+            "path": "/adult-symptoms/treating-and-preventing-headaches"
+        },
+        {
+            "number": "26",
+            "image": "motrin-listingbackpain-callout03_1.jpg",
+            "alt": "Lady suffering from back pain",
+            "path": "/adult-symptoms/back-pain"
+        },
+        {
+            "number": "27",
+            "image": "motrin-kneepain-header.jpg",
+            "alt": "Man suffering from knee pain banner",
+            "path": "/adult-symptoms/body-pain/knee-pain"
+        },
+        {
+            "number": "28",
+            "image": "motrin-listingbodypain-callout03.jpg",
+            "alt": "Lady suffering from muscle sprain",
+            "path": "/adult-symptoms/body-pain"
+        },
+        {
+            "number": "29",
+            "image": "table-dosin-09_a.jpg",
+            "alt": "Cup dosing icon",
+            "path": "/safety-dosing/infant-children-dosing-charts"
+        },
+        {
+            "number": "30",
+            "image": "product_lg_motrininfants.png",
+            "alt": "Infants' Motrin 8 Hour Fever & Pain Relief, 30ml",
+            "path": "/products/motrin/children-s-motrin-suspension"
+        },
+        {
+            "number": "31",
+            "image": "5.0_safetyanddosing_965x455_2.jpg",
+            "alt": "Little girl taking her temperature",
+            "path": "/infant-child-symptoms/fever"
+        },
+        {
+            "number": "32",
+            "image": "motrin-listingbackpain-callout01.jpg",
+            "alt": "Lady suffering from backache",
+            "path": "/adult-symptoms/back-pain"
+        },
+        {
+            "number": "33",
+            "image": "motrin-teethingtoothaches-landing.png",
+            "alt": "Toothache Icon",
+            "path": "/infant-child-symptoms/treating-teething-and-toothaches"
+        },
+        {
+            "number": "34",
+            "image": "motrin-jointpain-header.jpg",
+            "alt": "Lady suffering from muscle sprain banner",
+            "path": "/adult-symptoms/body-pain/joint-pain-causes-diagnosis-remedies"
+        },
+        {
+            "number": "35",
+            "image": "4.2.2_for-children-2-11-years-old_banner.jpg",
+            "alt": "Banner of child playing with toys",
+            "path": "/infant-child-symptoms/fever/tips-fever-relief-for-children"
+        },
+        {
+            "number": "36",
+            "image": "4.2_fever_banner-1.jpg",
+            "alt": "Little girl taking her temperature banner",
+            "path": "/infant-child-symptoms/fever"
+        },
+        {
+            "number": "37",
+            "image": "motrin-listingbackpain-header.jpg",
+            "alt": "Banner of lady stretching without suffering from body pains",
+            "path": "/adult-symptoms/back-pain"
+        },
+        {
+            "number": "38",
+            "image": "motrin-listingbodypain-callout02.jpg",
+            "alt": "Athlete stretching before working out",
+            "path": "/adult-symptoms/body-pain"
+        },
+        {
+            "number": "39",
+            "image": "table-dosin-09_e.jpg",
+            "alt": "Cup dosing icon",
+            "path": "/safety-dosing/infant-children-dosing-charts"
+        },
+        {
+            "number": "40",
+            "image": "4.0_children-and-infants_banner.jpg",
+            "alt": "Banner of little girl smiling",
+            "path": "/infant-child-symptoms"
+        },
+        {
+            "number": "41",
+            "image": "motrin-causesbackpain-header-min.jpg",
+            "alt": "Man suffering from back pain during work",
+            "path": "/adult-symptoms/back-pain/upper-lower-back-pain-causes"
+        },
+        {
+            "number": "42",
+            "image": "motrin-listingbodypain-header.jpg",
+            "alt": "Banner of lady jogging without suffering from body pains",
+            "path": "/adult-symptoms/body-pain"
+        },
+        {
+            "number": "43",
+            "image": "teething-header-image.png",
+            "alt": "Baby teething and biting toy",
+            "path": "/infant-child-symptoms/treating-teething-and-toothaches"
+        },
+        {
+            "number": "44",
+            "image": "table-dosin-09_d.jpg",
+            "alt": "Cup dosing icon",
+            "path": "/safety-dosing/infant-children-dosing-charts"
+        },
+        {
+            "number": "45",
+            "image": "motrin-listingbackpain-callout04.jpg",
+            "alt": "Lady sleeping peacefully without suffering from body pain",
+            "path": "/adult-symptoms/back-pain"
+        },
+        {
+            "number": "46",
+            "image": "motrin-muscleaches-header_resized.jpg",
+            "alt": "Banner of lady suffering from body pain",
+            "path": "/adult-symptoms/body-pain/muscle-pain-causes-home-remedies"
+        },
+        {
+            "number": "47",
+            "image": "3.1_joint_pain_image-min.jpg",
+            "alt": "Lady doing yoga without suffering from joint pains",
+            "path": "/adult-symptoms/tips-to-relieve-joint-pain"
+        }
+    ]
+}

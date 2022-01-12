@@ -1,0 +1,412 @@
+{
+    "sheet": [
+        {
+            "path": "/hcp/our-products/eczema",
+            "description": "Caring for eczema can be a challenge. Visit Aveeno® HCP to discover a range of soothing, moisturizing, and itch relief body & skin care products for eczema."
+        },
+        {
+            "path": "/hcp/our-products/facial-care",
+            "description": "There's always an Aveeno® HCP product for any skin type, including sensitive skin. View all hydrating cleansers, moisturizers, and SPF at Aveeno® HCP today!"
+        },
+        {
+            "path": "/products/eczema-care-hand-cream",
+            "description": "Relief your eczema symptoms with AVEENO® ECZEMA CARE hand cream. Minimize itching, redness, dryness & irritation symptoms for soothed hands. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/face-care/ultra-calming-daily-moisturizer-spf-30",
+            "description": "Hydrate dry skin with AVEENO® HCP ULTRA CALMING® Daily Moisturizer SPF 30. This mineral-based SPF is perfect for sensitive skin. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/skin-relief-body-wash",
+            "description": "AVEENO® SKIN RELIEF body wash is hypoallergenic, and works to moisturize, soothe, and gently cleanse itchy, dry, and sensitive skin. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/shower-and-bath-body-care/aveeno-skin-relief-body-wash-fragrance-free",
+            "description": "AVEENO® HCP SKIN RELIEF body wash is hypoallergenic, and works to moisturize, soothe, and gently cleanse itchy, dry, and sensitive skin. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/shower-and-bath/skin-relief-shave-gel",
+            "description": "Protect your skin against bumps & razor burns. Made with colloidal oatmeal, enjoy a smooth shave with AVEENO® HCP SKIN RELIEF shave gel. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/skin-relief-shave-gel",
+            "description": "Protect your skin against bumps & razor burns. Made with colloidal oatmeal, enjoy a smoother shave with AVEENO® SKIN RELIEF shave gel. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/daily-moisturizing-lotion-sheer-hydration",
+            "description": "AVEENO® Daily Moisturizing Lotion absorbs within seconds. Specially formulated with natural oat to leave skin smooth, soft, and moisturized. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/baby-eczema-care-nighttime-balm",
+            "description": "Made with natural colloidal oatmeal, AVEENO® BABY Eczema Care Nighttime Balm soothes your baby's dry & itchy skin. Fragrance & paraben-free. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/baby-eczema-care-moisturizing-cream",
+            "description": "AVEENO® BABY Eczema Care Moisturizing Cream contains colloidal oatmeal to relieve itching & dryness from eczema on your baby's skin. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/body-care/daily-moisturizing-lotion-spf-15",
+            "description": "Keep skin hydrated & protected with AVEENO® HCP Daily Lotion SPF 15. It contains natural colloidal oatmeal to moisturize skin for 24hrs. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/our-ingredients/feverfew",
+            "description": "What is Feverfew? Learn about this plant-based ingredient and how it's used for its high antioxidant and anti-irritant benefits. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/sustainability-caring-for-sensitive-skin-and-the-planet",
+            "description": "Learn how AVEENO® formulas, sourcing & sustainable packaging commits to our goal of a healthy planet. Your skin deserves no compromise. Read on at AVEENO.ca"
+        },
+        {
+            "path": "/products/daily-moisturizing-honey-and-apricot-body-yogurt-lotion",
+            "description": "AVEENO® Daily Moisturizing Honey and Apricot Body Yogurt lotion contains oat to hydrate, soften, and nourish dry skin for up to 48hrs. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/skin-relief",
+            "description": "Restore your skin's moisture barrier & soothe dry skin with AVEENO® skin relief products. For healthy-looking skin that stays smooth & soft. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-face-toner",
+            "description": "AVEENO® POSITIVELY RADIANT® hydrating face toner is formulated with soy extract to help rebalance your skin. Alcohol-free & oil-free. View more on AVEENO.ca"
+        },
+        {
+            "path": "/products/baby-wash-shampoo",
+            "description": "AVEENO® BABY Wash & Shampoo gently cleanses your baby's skin and hair. This formula is tear & paraben-free, & contains oat extract. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/baby-hand-face-wipes",
+            "description": "Gently cleanse your baby's skin with AVEENO® Baby Hand & Face Wipes. Formulated with Oat Extract & Aloe for softer skin. Dye & alcohol free. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/scalp-soothing-oat-milk-shampoo",
+            "description": "AVEENO® Scalp Soothing Oat Milk Blend Shampoo is perfect for all hair types & daily use. Free of sulfates, parabens and dyes. Visit AVEENO.ca to learn more."
+        },
+        {
+            "path": "/where-to-buy",
+            "description": "Looking to purchase an AVEENO® product? Select an online retailer to see availability or select a specific product to find a local retailer. Visit AVEENO.ca"
+        },
+        {
+            "path": "/files/skin-benefits-oat-0",
+            "description": "Oat has many skin benefits such as moisturising, exfoliating & soothing dry skin. It also creates a protective barrier on your skin. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/files/triple-oat-complex-benefits-0",
+            "description": "Triple oat complex is made up on oat flour, oat extract, and oat oil. These help strengthen, hydrate, soothe, & calm dry skin. See all benefits at AVEENO.ca"
+        },
+        {
+            "path": "/hcp/our-ingredients/oat",
+            "description": "Learn the benefits of colloidal oatmeal ingredient in AVEENO® products. Ideal to help soothe, protect & hydrate sensitive skin. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/eczema/aveeno-eczema-care-hand-cream",
+            "description": "AVEENO® HCP ECZEMA CARE hand cream reduces itching, redness, dryness & irritation symptoms for soothed hands. Steroid & fragrance-free. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/body-care/daily-moisturizing-lotion-sheer-hydration",
+            "description": "AVEENO® HCP Daily Moisturizing Lotion absorbs within seconds. Specially formulated with natural oat to leave skin smooth & moisturized. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/daily-moisturizing-lotion",
+            "description": "AVEENO® Daily Moisturizing Lotion works to revitalize dry skin. Formulated with colloidal oatmeal, it leaves your skin soft & smooth. See more at AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/shower-and-bath-body-care/skin-relief-gentle-scent-coconut-body-wash",
+            "description": "This moisturizing AVEENO® HCP SKIN RELIEF GENTLE SCENT® Coconut body wash is designed to soothe itchy, dry, and sensitive skin. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/eczema-care-body-wash",
+            "description": "AVEENO® Eczema Care body wash gently cleanses without damaging the skin's barrier. Mild & steroid free for skin that suffers from eczema. View on AVEENO.ca"
+        },
+        {
+            "path": "/contact-us",
+            "description": "Looking to contact AVEENO®? Reach out to us via email, phone, or on social media. See FAQs for information on product expiry, ingredients & animal testing."
+        },
+        {
+            "path": "/products/hair-colour-protection",
+            "description": "AVEENO® hair colour protection products include nourishing shampoos & conditioners to protect your hair from shine and colour loss. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/skin-hair-solutions/acne",
+            "description": "Our AVEENO CLEAR COMPLEXION® products contain moisture-rich soy & salicylic acid to improve skin texture & keep skin looking clear. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-overnight-hydrating-facial-moisturizer",
+            "description": "Rejuvinate your skin and texture with AVEENO® POSITIVELY RADIANT® Overnight Hydrating Facial moisturizer for fresh and luminous skin. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/sensitive-skin-spf-50-sunscreen",
+            "description": "Protect your sensitive skin from the sun. AVEENO® Sensitie Skin SPF 50 Sunscreen is an oil-free, non-comedogenic mineral sunscreen. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-skin-brightening-daily-scrub",
+            "description": "AVEENO® POSITIVELY RADIANT® Skin Brightening Scrub contains moisture-rich soy extract & naturally derived granules to exfoliate skin. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/apple-cider-vinegar-in-shower-hair-rinse",
+            "description": "AVEENO® Apple Cider Vinegar Blend In-Shower Hair Rinse gently clarifies hair. It works to rebalance pH in hair and reinforce shine. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/protect-hydrate-lotion-sunscreen-spf-60-188",
+            "description": "AVEENO® PROTECT + HYDRATE® SPF 60 moisturizing sunscreen provides 8 hour UVA/UVB sun protection & hydration, in a 188ml vaue size. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-daily-moisturizer-spf-30",
+            "description": "AVEENO® POSITIVELY RADIANT® Daily Moisturizer SPF 30 is a multi-tasking formula that works to improve tone, texture & brown spots. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/hair-conditioner-for-volume-fresh-greens-blend",
+            "description": "AVEENO® Fresh Greens Blend Hair Conditioner volumizes and refreshes hair. It's infused with oats, rosemary, peppermint and cucumber. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/restorative-skin-therapy-repairing-cream-340g",
+            "description": "AVEENO® Restorative Skin Therapy Repairing Cream is formulated with oat, aloe, and vitamin B5 to help restore dry, sensitive skin. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/restorative-skin-therapy-itch-relief-balm-113g",
+            "description": "AVEENO® HCP Restorative Skin Therapy Itch Relief Balm soothes and provides temporary relief of itchy, dry, and sensitive skin. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/ultra-calming-daily-moisturizer-spf-30",
+            "description": "Hydrate dry skin with AVEENO® Daily Moisturizer SPF 30. This mineral-based SPF contains nourishing oat, and is perfect for sensitive skin. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/eczema/baby-eczema-care-nighttime-balm",
+            "description": "AVEENO® HCP BABY Eczema Care Nighttime Balm contains natural colloidal oatmeal to soothe your baby's dry & itchy skin. Fragrance-free. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/face-care/ultra-calming-foaming-cleanser",
+            "description": "Soothe & calm dry, irritated or sensitive skin with AVEENO® HCP ULTRA-CALMING® foaming cleanser, and reduce the appearance of redness. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/eczema/baby-eczema-care-moisturizing-cream",
+            "description": "AVEENO® HCP BABY Eczema Care Moisturizing Cream hydrates your baby's skin & relieves itching & dryness associated with eczema. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/ultra-calming-hydrating-gel-cleanser",
+            "description": "Gently remove dirt, oil and make-up with AVEENO® ULTRA- CALMING® Hydrating Gel Cleanser. Fragrance-free and hypoallergenic. Visit AVEENO.ca to learn more!"
+        },
+        {
+            "path": "/hcp/products/restorative-skin-therapy-soothing-body-wash-532ml",
+            "description": "AVEENO® HCP Restorative Skin Therapy Soothing Body Wash contains prebiotic oat and provitamin b5 to gently clean and nourish dry skin. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/restorative-skin-therapy-soothing-body-wash-532ml",
+            "description": "AVEENO® Restorative Skin Therapy Soothing Body Wash contains oat, aloe & provitamin b5 to gently clean & nourish dry skin. Fragrance-free. Visit AVEENO.ca"
+        },
+        {
+            "path": "/flatten-the-curve",
+            "description": "AVEENO® is commited to producing products that help people & communities maintain personal hygiene. AVEENO® is committed to flattening the COVID-19 curve."
+        },
+        {
+            "path": "/hcp/resource-center/daily-moisturizing-lotion-clinical",
+            "description": "A 5-week study proved that oatmeal body lotion was effective in improving the skin's barrier & moisture for up to 13 days. View the study on AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/eczema/baby-eczema-care-wash",
+            "description": "AVEENO® HCP BABY Eczema body wash contains colloidal oatmeal to cleanse your baby’s delicate skin without damaging the skin’s barrier. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/sun",
+            "description": "Choose from stick, lotion or mineral sunscreens. AVEENO® SPF sun care products protect & hydrate your skin from sun damage. View all products on AVEENO.ca"
+        },
+        {
+            "path": "/products/sensitive-scalp",
+            "description": "Discover AVEENO® hair products for sensitive scalp, including nourishing shampoos & conditioners to repair, volumize, and moisturize hair. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/daily-skin-moisturizer-products-for-babies",
+            "description": "Pamper your baby with AVEENO® BABY skin care products. Formulated to be gentle and to keep your baby's skin feeling soft and smooth. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-make-up-removing-wipes",
+            "description": "AVEENO® POSITIVELY RADIANT® make up wipes easily & gently removes dirt, oil & make up for softer looking skin. Contains Total Soy Complex. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/sun-care/protect-hydrate-lotion-sunscreen-spf-60",
+            "description": "AVEENO® HCP PROTECT + HYDRATE® SPF 60 sunscreen lotion provides up to 8 hr sun protection & hydration for face & body. Visit AVEENO.ca/hcp to learn more."
+        },
+        {
+            "path": "/products/protect-hydrate-sunscreen-lotion-spf-45",
+            "description": "AVEENO® PROTECT + HYDRATE® SPF 45 sunscreen is quick-absorbing, oil-free, & contains nourishing oat to lock in hydration for up to 24hrs. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/shower-and-bath/soothing-bath-treatment-for-dry-skin",
+            "description": "Soothe itchy, dry or irritated skin with AVEENO® HCP Soothing Bath Treatment, made with finely milled 100% Colloidal Oatmeal. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/restorative-skin-therapy-repairing-cream-340g",
+            "description": "AVEENO® HCP Restorative Skin Therapy Repairing Cream contains oat, aloe, and vitamin B5 to help restore dry & sensitive skin. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/intense-relief-hand-cream",
+            "description": "AVEENO® INTENSE RELIEF hand cream contains oatmeal & rich emollients to moisturize dry hands and chapped skin. Lasts through handwashing. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/body-care/cracked-skin-relief-cica-ointment",
+            "description": "AVEENO® HCP Cracked Skin Relief CICA Ointment contains triple oat complex to help moisturize and repair dry and cracked skin. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/face-care/clear-complexion-foaming-cleanser",
+            "description": "Infused with salicylic acid and soy extract, AVEENO® HCP Clear Complexion foaming cleanser gently exfoliates skin without overdrying. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/hair-treatment-for-dry-frizzy-hair-with-oatmilk",
+            "description": "AVEENO® Hydrating Oat Milk Blend Leave-In hair treatment combats dry, frizzy hair with lightweight nourishment for all hair types. View more at AVEENO.ca"
+        },
+        {
+            "path": "/files/microbiome-atopic-skin-0",
+            "description": "Learn what an Atopic Skin is and how AVEENO® products can help enhance your skin's barrier to improve the microbiome of your skin. Read more at AVEENO.ca"
+        },
+        {
+            "path": "/products/protect-hydrate-lotion-sunscreen-spf-60",
+            "description": "AVEENO® PROTECT + HYDRATE® SPF 60 lotion contains nourishing oat extract and provides up to 8 hour hydration and sun protection. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/sun-care/protect-hydrate-sunscreen-lotion-spf-45",
+            "description": "AVEENO® HCP PROTECT + HYDRATE® SPF 45 broad spectrum sunscreen contains oat extract for 24hrs hydration. Oil-free & non-comedogenic. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/sun-care/protect-hydrate-lotion-sunscreen-spf-30",
+            "description": "Try AVEENO® HCP PROTECT + HYDRATE® SPF 30, a water resistant & oil-free UVA/UVB broad spectrum sunscreen lotion with 24hr hydration. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/clear-complexion-purely-matte-peel-off-mask",
+            "description": "AVEENO® Clear Complexion Purely Matte Peel Off Mask lifts away pore-clogging oil. Infused with AHA, soy & pomegranate to exfoliate skin. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/our-products",
+            "description": "Aveeno® HCP products provide medically-focused, moisturizing and protecting hair and skin care products. Discover special offers online at AVEENO® HCP!"
+        },
+        {
+            "path": "/products/restorative-skin-therapy-itch-relief-balm-113g",
+            "description": "AVEENO® Restorative Skin Therapy Itch Relief Balm provides temporary relief of itchy, dry, and sensitive skin. Paraben & fragrance-free. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/body-care/intense-relief-hand-cream",
+            "description": "AVEENO® HCP INTENSE RELIEF hand cream contains oatmeal & rich emollients to moisturize dry hands for softer & smoother skin. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/ultra-calming-foaming-cleanser",
+            "description": "Looking to soothe dry, irritated or sensitive skin? Try AVEENO® ULTRA-CALMING® foaming cleanser & help reduce the appearance of redness. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/skin-relief-gentle-scent-coconut-body-wash",
+            "description": "This moisturizing AVEENO® SKIN RELIEF GENTLE SCENT® Coconut body wash contains oatmeal to soothe itchy, dry, and sensitive skin. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/daily-moisturizing-lotion-spf-15",
+            "description": "Keep skin hydrated & protected with AVEENO® Daily Lotion SPF 15. Formulated with natural colloidal oatmeal to moisturize skin for 24hrs. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/microbiome",
+            "description": "Our skin is the largest organ and is home to many microorganisms, including bacteria. This is called the Skin Microbiome. Find out more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/our-ingredients/soy",
+            "description": "Did you know soy is rich in protein, lipids & vitamins, and has many health & nutritional benefits? Learn how AVEENO® HCP products use soy ingredients."
+        },
+        {
+            "path": "/hcp/our-products/sun-protection",
+            "description": "Looking for a hydrating sunscreen lotion or moisturizer with SPF? Discover the full range of medically-focused sun protection products on AVEENO.ca/hcp."
+        },
+        {
+            "path": "/products/absolutely-ageless-pretox-peel-off-mask",
+            "description": "Exfoliate impurities with AVEENO® Pre-tox Blackberry peel off face mask. Contains antioxidant-rich Blackberry Complex & vitamin E. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-maxglow-micellar-gel-cleanser",
+            "description": "This AVEENO® POSITIVELY RADIANT® micellar gel facial cleanser has soy & kiwi complex to remove make-up, hydrate & soothe the skin. See more at AVEENO.ca"
+        },
+        {
+            "path": "/products/clarifying-hair-products",
+            "description": "Discover AVEENO® clarifying hair products, designed to nourish & remove residue & buildup from your scalp. View all shampoos & conditioners at AVEENO.ca"
+        },
+        {
+            "path": "/products/purifying-body-wash",
+            "description": "Specially formulated with a unique combination of seaweed and oatmeal, AVEENO® Purifying Body Wash gently whisks away impurities. See more at AVEENO.ca"
+        },
+        {
+            "path": "/files/unlocking-power-aveeno-oat-0",
+            "description": "What makes AVEENO® oat formula so powerful? Learn more about our Triple Oat Formula & how it helps relieve, restore & protect your skin. Visit AVEENO.ca"
+        },
+        {
+            "path": "/hcp/products/face-care/ultra-calming-daily-moisturizer-spf-15",
+            "description": "Discover AVEENO® HCP ULTRA-CALMING® Daily Moisturizer SPF 15. It contains Feverfew to hydrate, calm & soothe dry or sensitive skin. Visit AVEENO.ca/hcp"
+        },
+        {
+            "path": "/products/colour-protect-conditioner-with-blackberry-quinoa",
+            "description": "AVEENO® Blackberry Quinoa Protein Blend Hair Conditioner protects your hair colour and strengthens against heat styling. Visit AVEENO.ca to learn more."
+        },
+        {
+            "path": "/hcp/our-products/body-care",
+            "description": "Whether you're looking for a body wash, a daily moisturizing lotion with SPF, or a skin repair cream, you can find your perfect product at Aveeno® HCP."
+        },
+        {
+            "path": "/hcp/products/body-care/daily-moisturizing-lotion",
+            "description": "AVEENO® HCP Daily Moisturizing Lotion works to relieve dry skin by providing 24hrs moisture. Fragrance-free and non-greasy. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/face-care/ultra-calming-hydrating-gel-cleanser",
+            "description": "Gently remove dirt, oil & make-up with AVEENO® HCP ULTRA- CALMING® Hydrating Gel Cleanser. Fragrance-free & hypoallergenic. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/hcp/products/face-care/positively-radiant-daily-moisturizer-spf-30",
+            "description": "AVEENO® HCP POSITIVELY RADIANT® Daily Moisturizer SPF 30 contains Total Soy Complex to improve tone, texture & brown spots. Learn more at AVEENO.ca/hcp"
+        },
+        {
+            "path": "/skin-hair-solutions/extra-dry-skin",
+            "description": "Extra dry skin may be affected by factors such as cold and dry weather. Find out how you can treat dry skin with specially formulated AVEENO® products."
+        },
+        {
+            "path": "/products/scalp-soothing-rose-water-chamomile-conditioner",
+            "description": "AVEENO® Rose Water & Chamomile Blend Conditioner soothes sensitive and soft hair. Sulfate free, no dyes or parabens. View the full product on AVEENO.ca"
+        },
+        {
+            "path": "/products/scalp-soothing-shampoo-fresh-greens-blend",
+            "description": "Try AVEENO® Fresh Greens Blend Soothing Shampoo for volume and to refresh. Infused with rosemary, peppermint and cucumber. See the product on AVEENO.ca"
+        },
+        {
+            "path": "/products/baby-sensitive-skin-sunscreen-spf-50",
+            "description": "AVEENO® BABY Sensitive Skin sunscreen provides broad spectrum SPF 50 protection for your baby. Tear-free & hypoallergenic. Visit AVEENO.ca to see more."
+        },
+        {
+            "path": "/products/ultra-calming-nourishing-night-cream",
+            "description": "Nourish dry, irritated skin with AVEENO® Oat & Feverfew night cream, designed to help reduce the look of redness. Oil & fragrance free. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-cleanser",
+            "description": "Transform dull, uneven skin with AVEENO® POSITIVELY RADIANT® cleanser. Oil-free and infused with soy extracts to brighten skin. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/calming-body-wash",
+            "description": "AVEENO® Calming Body Wash is enriched with natural ingredients known to smooth and soften your skin. Lightly fragranced. Visit AVEENO.ca to learn more."
+        },
+        {
+            "path": "/products/protect-hydrate-lotion-sunscreen-spf-30",
+            "description": "AVEENO® PROTECT + HYDRATE® SPF 30 sunscreen is sheer, quick-absorbing, oil-free formula that contains oat ingredients for 24hrs hydrating. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/cracked-skin-relief-cica-ointment",
+            "description": "Say hello to moisturized skin! AVEENO® Cracked Skin Relief CICA Ointment contains triple oat complex to help repair dry, cracked skin. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/positively-radiant-sheer-daily-moisturizer-spf-30",
+            "description": "AVEENO® POSITIVELY RADIANT® Sheer Daily Moisturizer SPF 30 is oil free & helps even skin tone & improve the look of dark spots. View more on AVEENO.ca"
+        },
+        {
+            "path": "/products/sensitive-skin-sun-care",
+            "description": "Looking for some sun protection? AVEENO® Sensitive Skin sun care products protect against sunburn without irritating the skin. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/moisturizing-bar",
+            "description": "AVEENO® moisturizing bar gently washes away dirt & oil to leave your skin soft & smooth. Fragrance-free, dye-free & soap-free. Learn more at AVEENO.ca"
+        },
+        {
+            "path": "/products/ultra-calming-daily-moisturizer-spf-15",
+            "description": "AVEENO® ULTRA-CALMING® Daily Moisturizer SPF 15 hydrates and soothe dry, irritated or sensitive skin, and reduces the look of redness. Visit AVEENO.ca"
+        },
+        {
+            "path": "/products/clear-complexion-foaming-cleanser",
+            "description": "Infused with salicylic acid and soy extract, AVEENO® Clear Complexion foaming facial cleanser helps exfoliate skin without overdrying. Visit AVEENO.ca"
+        }
+    ]
+}
